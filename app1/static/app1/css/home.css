@@ -1,0 +1,36 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+.center-box {
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 600px;
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+.btn.btn-primary:hover{
+    background-color: white;
+    border: solid 2px #007bff;
+    color: #007bff;
+}
+.input-group{
+    display: inline-flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.email-input {
+    width: 300px;
+    padding: 5px;
+    border: 2px solid #007bff;
+    border-radius: 5px 0 0 5px;
+    font-size: 16px;
+}
